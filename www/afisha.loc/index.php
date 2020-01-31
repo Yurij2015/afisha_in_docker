@@ -46,10 +46,10 @@ require_once "public_header.php";
                                 <div class="col-md-4 content-center mt-2">
                                     <p><?= $row['name']; ?></p>
                                 </div>
-                                <div class="col-md-2 content-center mt-2">
+                                <div class="col-md-3 content-center mt-2">
                                     <p><?= $row['date'] . "&nbsp;" . $row['time']; ?></p>
                                 </div>
-                                <div class="col-md-3 mt-2">
+                                <div class="col-md-2 mt-2">
                                     <a href="information.php?id=<?= $row['id']; ?>#info"
                                        class="content-center info">Информация</a>
                                 </div>

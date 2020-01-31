@@ -43,7 +43,7 @@ require_once "public_header.php";
                         foreach ($booking as $row) {
                             ?>
                             <div class="col-md-12 mb-5 mt-5" id="info">
-                                <img src="/admin/<?= $row['linkimg']; ?>" width="200px"
+                                <img src="/admin/<?= $row['linkimg']; ?>" width="270px"
                                      class="float-left mr-3" alt="<?= $row['name']; ?>">
                                 <p class="text-justify mb-0"><span
                                             class="font-weight-bold">Название театра:</span> <?= $row['ci_name']; ?></p>
@@ -53,14 +53,37 @@ require_once "public_header.php";
                                 <p class="text-justify mb-0"><span
                                             class="font-weight-bold">Название:</span> <?= $row['name']; ?>
                                 </p>
-                                <p class="text-justify mb-0"><span
-                                            class="font-weight-bold">Стоимость:</span> <?= $row['cost']; ?>
+                                <p class="text-justify mb-0">
+                                    <span class="font-weight-bold">Ряд: </span> <?= $row['row']; ?>
+                                    <span class="font-weight-bold">Место: </span> <?= $row['place']; ?>
                                 </p>
+                                <?php
+                                if ($row['row'] <= 5) {
+                                    ?>
+                                    <p class="text-justify mb-0"><span
+                                                class="font-weight-bold">Стоимость:</span> <?= ($row['cost'] * 0.3) + $row['cost']; ?>
+                                    </p>
+                                    <?php
+                                }
+                                ?>
+                                <?php
+                                if ($row['row'] > 5) {
+                                    ?>
+                                    <p class="text-justify mb-0"><span
+                                                class="font-weight-bold">Стоимость:</span> <?= $row['cost']; ?>
+                                    </p>
+                                    <?php
+                                }
+                                ?>
+
                                 <p class="text-justify mb-0"><span
                                             class="font-weight-bold">Ограничение по возрасту:</span> <?= $row['agelimitation']; ?>
                                 </p>
                                 <p class="text-justify mb-1"><span
                                             class="font-weight-bold">Автор:</span> <?= $row['author']; ?>
+                                </p>
+                                <p class="text-justify mb-1"><span
+                                            class="font-weight-bold">Заказ оформлен:</span> <?= $row['timestamp']; ?>
                                 </p>
                             </div>
                             <hr>

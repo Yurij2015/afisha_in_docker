@@ -35,7 +35,6 @@
       <change beforePath="$PROJECT_DIR$/www/afisha.loc/Session.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/Session.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/afisha.loc/add_comment.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/add_comment.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/afisha.loc/add_comment_handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/add_comment_handler.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/afisha.loc/add_order.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/add_order.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/afisha.loc/add_order_handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/add_order_handler.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/header.php" afterDir="false" />
@@ -98,12 +97,8 @@
       <change beforePath="$PROJECT_DIR$/www/afisha.loc/comments.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/comments.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/afisha.loc/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/afisha.loc/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/afisha.loc/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/afisha.loc/information.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/information.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/afisha.loc/information_dropdown.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/information_dropdown.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/afisha.loc/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/js/script.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/afisha.loc/news.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/news.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/www/afisha.loc/personal_area.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/personal_area.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/afisha.loc/public_header.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/public_header.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/afisha.loc/search.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/search.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/www/afisha.loc/search_artists.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/search_artists.php" afterDir="false" />
@@ -218,7 +213,7 @@
       <workItem from="1577815363273" duration="16000" />
       <workItem from="1577983920442" duration="53321000" />
       <workItem from="1578220687745" duration="15624000" />
-      <workItem from="1580460900833" duration="4709000" />
+      <workItem from="1580460900833" duration="10086000" />
     </task>
     <servers />
   </component>
@@ -269,26 +264,30 @@
       <screen x="0" y="0" width="1920" height="1200" />
     </state>
     <state x="734" y="268" key="ExecutionTargetDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1578147665334" />
-    <state width="1102" height="56" key="GridCell.Tab.0.bottom" timestamp="1578300138084">
-      <screen x="0" y="23" width="1920" height="1132" />
+    <state width="1074" height="196" key="GridCell.Tab.0.bottom" timestamp="1580467282993">
+      <screen x="43" y="27" width="1877" height="1053" />
     </state>
     <state width="1603" height="428" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1578220410061" />
     <state width="1102" height="56" key="GridCell.Tab.0.bottom/0.23.1920.1132@0.23.1920.1132" timestamp="1578300138084" />
-    <state width="1102" height="56" key="GridCell.Tab.0.center" timestamp="1578300138083">
-      <screen x="0" y="23" width="1920" height="1132" />
+    <state width="1074" height="196" key="GridCell.Tab.0.bottom/43.27.1877.1053/1920.0.1366.768@43.27.1877.1053" timestamp="1580467282993" />
+    <state width="1074" height="196" key="GridCell.Tab.0.center" timestamp="1580467282993">
+      <screen x="43" y="27" width="1877" height="1053" />
     </state>
     <state width="1603" height="428" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1578220410060" />
     <state width="1102" height="56" key="GridCell.Tab.0.center/0.23.1920.1132@0.23.1920.1132" timestamp="1578300138083" />
-    <state width="1102" height="56" key="GridCell.Tab.0.left" timestamp="1578300138083">
-      <screen x="0" y="23" width="1920" height="1132" />
+    <state width="1074" height="196" key="GridCell.Tab.0.center/43.27.1877.1053/1920.0.1366.768@43.27.1877.1053" timestamp="1580467282993" />
+    <state width="1074" height="196" key="GridCell.Tab.0.left" timestamp="1580467282992">
+      <screen x="43" y="27" width="1877" height="1053" />
     </state>
     <state width="1603" height="428" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1578220410059" />
     <state width="1102" height="56" key="GridCell.Tab.0.left/0.23.1920.1132@0.23.1920.1132" timestamp="1578300138083" />
-    <state width="1102" height="56" key="GridCell.Tab.0.right" timestamp="1578300138083">
-      <screen x="0" y="23" width="1920" height="1132" />
+    <state width="1074" height="196" key="GridCell.Tab.0.left/43.27.1877.1053/1920.0.1366.768@43.27.1877.1053" timestamp="1580467282992" />
+    <state width="1074" height="196" key="GridCell.Tab.0.right" timestamp="1580467282993">
+      <screen x="43" y="27" width="1877" height="1053" />
     </state>
     <state width="1603" height="428" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1578220410060" />
     <state width="1102" height="56" key="GridCell.Tab.0.right/0.23.1920.1132@0.23.1920.1132" timestamp="1578300138083" />
+    <state width="1074" height="196" key="GridCell.Tab.0.right/43.27.1877.1053/1920.0.1366.768@43.27.1877.1053" timestamp="1580467282993" />
     <state x="781" y="519" key="NewPhpFileDialog" timestamp="1577608919889">
       <screen x="0" y="23" width="1920" height="1132" />
     </state>

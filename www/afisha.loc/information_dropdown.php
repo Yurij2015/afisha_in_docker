@@ -22,7 +22,8 @@ require_once "public_header.php";
                                     style="background: transparent; color: white; border: none;"></button>
                         </div>
                     </div>
-                </form>            </div>
+                </form>
+            </div>
             <div class="emptyplace"></div>
             <div class="search">
                 <form method="post" id="searchrequest" action="search.php">
@@ -57,8 +58,10 @@ require_once "public_header.php";
                                     <p class="text-justify mb-0"><span
                                                 class="font-weight-bold">Название:</span> <?= $row['name']; ?>
                                     </p>
-                                    <p class="text-justify mb-0"><span
-                                                class="font-weight-bold">Стоимость:</span> <?= $row['cost']; ?>
+                                    <p class="text-justify mb-0">
+                                        <span class="font-weight-bold">Стоимость:</span>
+                                        <?= $row['cost']; ?> -
+                                        <?= ($row['cost'] * 0.3) + $row['cost']; ?>
                                     </p>
                                     <p class="text-justify mb-0"><span
                                                 class="font-weight-bold">Ограничение по возрасту:</span> <?= $row['agelimitation']; ?>
@@ -69,6 +72,21 @@ require_once "public_header.php";
                                     <p class="text-justify"><span
                                                 class="font-weight-bold">Описание: </span><?= $row['description']; ?>
                                     </p>
+
+                                    <p class="text-justify"><span
+                                                class="font-weight-bold text-danger">Артист(ы):
+                                        <?php
+                                        $repertoire = $db->connect()->query("SELECT name FROM artists JOIN repertoire_has_artist rha on artists.idartist = rha.artist_idartist WHERE repertoire_idrepertoire={$row['idrepertoire']}");
+                                        $i = 1;
+                                        foreach ($repertoire as $repertoireitem) {
+                                            echo $repertoireitem['name'];
+                                            if($repertoire->rowCount() != $i) {
+                                                echo ", ";
+                                            };
+                                            $i++;
+                                        } ?>
+                                    </p>
+
                                     <a href="information.php?id=<?= $row['id']; ?>#info"
                                        class="btn btn-danger float-right">Информация</a>
                                 </div>
