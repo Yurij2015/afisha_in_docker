@@ -156,7 +156,10 @@ require_once "public_header.php";
             </div>
         </div>
     </div>
-    <?php require_once "footer.php"; ?>
+    <?php
+    $db = null;
+    require_once "footer.php";
+    ?>
 </div>
 </div>
 </body>
