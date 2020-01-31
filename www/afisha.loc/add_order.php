@@ -60,7 +60,9 @@ require_once "public_header.php";
                                         require_once "DbConnect.php";
                                         require_once "dbsettings.php";
                                         try {
-                                            $db = new DbConnect("localhost", "afisha", "afisha", "3004917779");
+//                                            $db = new DbConnect("localhost", "afisha", "afisha", "3004917779");
+                                            $db = new DbConnect("mysql_afisha", "afisha", "afisha", "3004917779");
+
                                         } catch (PDOException $exc) {
                                             echo $exc->getMessage();
                                         }
