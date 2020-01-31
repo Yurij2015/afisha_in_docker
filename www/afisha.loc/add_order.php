@@ -57,15 +57,6 @@ require_once "public_header.php";
                                         ?>
                                         <div class="col card hoverDiv
                                         <?php
-                                        require_once "DbConnect.php";
-                                        require_once "dbsettings.php";
-                                        try {
-//                                            $db = new DbConnect("localhost", "afisha", "afisha", "3004917779");
-                                            $db = new DbConnect("mysql_afisha", "afisha", "afisha", "3004917779");
-
-                                        } catch (PDOException $exc) {
-                                            echo $exc->getMessage();
-                                        }
                                         $res = $db->connect()->query("SELECT css_style FROM booking WHERE row = $_row AND place = $_place AND timetable_id = $timetable");
                                         foreach ($res as $row) {
                                             echo $row['css_style'];

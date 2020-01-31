@@ -129,7 +129,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/www/afisha.loc" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -140,41 +140,12 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/afisha.loc" />
       <recent name="$PROJECT_DIR$/www/main-module.loc" />
       <recent name="$PROJECT_DIR$/www/main-module.loc/pages" />
       <recent name="$PROJECT_DIR$/www/main-module.loc/img" />
       <recent name="$PROJECT_DIR$/www/zurmo-module.loc/hosts" />
-      <recent name="$PROJECT_DIR$/www/zurmo-module.loc" />
     </key>
-  </component>
-  <component name="RunManager" selected="Docker.zurmo-module.loc.mysql-zurmo: Compose Deployment">
-    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
-      <deployment type="docker-compose.yml">
-        <settings>
-          <option name="sourceFilePath" value="docker-compose.yml" />
-        </settings>
-      </deployment>
-      <method v="2" />
-    </configuration>
-    <configuration name="zurmo-module.loc.mysql-zurmo: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
-      <deployment type="docker-compose.yml">
-        <settings>
-          <option name="services">
-            <list>
-              <option value="mysql-zurmo" />
-            </list>
-          </option>
-          <option name="sourceFilePath" value="www/zurmo-module.loc/docker-compose.yml" />
-        </settings>
-      </deployment>
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Docker.zurmo-module.loc.mysql-zurmo: Compose Deployment" />
-        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -213,7 +184,7 @@
       <workItem from="1577815363273" duration="16000" />
       <workItem from="1577983920442" duration="53321000" />
       <workItem from="1578220687745" duration="15624000" />
-      <workItem from="1580460900833" duration="10086000" />
+      <workItem from="1580460900833" duration="11688000" />
     </task>
     <servers />
   </component>
@@ -246,12 +217,12 @@
       <screen x="0" y="23" width="1920" height="1132" />
     </state>
     <state x="560" y="254" key="#Environment_variables/0.23.1920.1132@0.23.1920.1132" timestamp="1577543299276" />
-    <state x="808" y="204" width="945" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580466273106">
+    <state x="808" y="204" width="945" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580473444571">
       <screen x="43" y="27" width="1877" height="1053" />
     </state>
     <state x="968" y="220" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1578292266192" />
     <state x="823" y="231" width="945" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1132@0.23.1920.1132" timestamp="1577578724956" />
-    <state x="808" y="204" key="#com.intellij.execution.impl.EditConfigurationsDialog/43.27.1877.1053/1920.0.1366.768@43.27.1877.1053" timestamp="1580466273106" />
+    <state x="808" y="204" key="#com.intellij.execution.impl.EditConfigurationsDialog/43.27.1877.1053/1920.0.1366.768@43.27.1877.1053" timestamp="1580473444571" />
     <state x="652" y="389" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577547076412">
       <screen x="0" y="23" width="1920" height="1132" />
     </state>
