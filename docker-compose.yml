@@ -1,0 +1,53 @@
+version: '3.3'
+services:
+  nginx_afisha:
+    image: nginx:latest
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - ./hosts:/etc/nginx/conf.d
+      - ./www:/var/www
+      - ./logs:/var/log/nginx
+    networks:
+      - backend
+      - frontend
+    depends_on:
+      - php_afisha
+      - mysql_afisha
+    container_name: nginx_afisha
+  php_afisha:
+    build: ./images/php
+    volumes:
+      - ./www:/var/www
+    networks:
+      - backend
+    container_name: php_afisha
+  mysql_afisha:
+    image: mysql:5.7
+  command: ['mysqld', '--character-set-server=utf8mb4', '--collation-server=utf8mb4_unicode_ci']
+    restart: always
+    ports:
+      - "3306:3306"
+    volumes:
+      - ./mysql:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: root3004917779
+      MYSQL_USER: afisha
+      MYSQL_PASSWORD: 3004917779
+      MYSQL_DATABASE: afisha
+    networks:
+      - backend
+    container_name: mysql_afisha
+  phpmyadmin_afisha:
+    image: phpmyadmin/phpmyadmin
+    container_name: phpmyadmin_afisha
+    ports:
+      - 8090:80
+    links:
+      - mysql_afisha:db
+    networks:
+      - backend
+networks:
+  backend:
+  frontend:

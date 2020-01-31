@@ -1,0 +1,427 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e2f2971-7c3b-4186-83b7-3b799127b0ee" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/.idea/dataSources.local.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/.idea/dataSources.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/.idea/online-service.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/.idea/sqldialects.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/.idea/yii2settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/DbConnect.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/DbConnect.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/Session.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/Session.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/add_comment.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/add_comment.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/add_comment_handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/add_comment_handler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/add_order.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/add_order.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/add_order_handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/add_order_handler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/artists/Artist.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/artists/Artist.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/artists/addartist.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/artists/addartist.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/artists/artists.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/artists/artists.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/artists/delete_artist.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/artists/delete_artist.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/artists/edit_artist.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/artists/edit_artist.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/artists/editartist.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/artists/editartist.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/artists/getartist.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/artists/getartist.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/booking/Booking.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/booking/Booking.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/booking/booking_view.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/booking/booking_view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/booking/delete_booking.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/booking/delete_booking.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/comments/Comments.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/comments/Comments.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/comments/comments_view.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/comments/comments_view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/comments/delete_comment.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/comments/delete_comment.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/news/News.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/news/News.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/news/add_news.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/news/add_news.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/news/addnews.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/news/addnews.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/news/delete_news.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/news/delete_news.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/news/edit_news.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/news/edit_news.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/news/editnews.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/news/editnews.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/news/news_view.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/news/news_view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/repertoire/Repertoire.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/repertoire/Repertoire.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/repertoire/add_repertoire.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/repertoire/add_repertoire.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/repertoire/addrelertoire.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/repertoire/addrelertoire.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/repertoire/delete_repertoire.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/repertoire/delete_repertoire.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/repertoire/edit_repertoire.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/repertoire/edit_repertoire.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/repertoire/editrepertoire.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/repertoire/editrepertoire.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/repertoire/repertoire_view.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/repertoire/repertoire_view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/repertoireofartist/add_rep_of_art.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/repertoireofartist/add_rep_of_art.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/repertoireofartist/add_rep_of_art_handler.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/repertoireofartist/add_rep_of_art_handler.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/repertoireofartist/delete_rep_or_art.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/repertoireofartist/delete_rep_or_art.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/repertoireofartist/repertoireofartist_view.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/repertoireofartist/repertoireofartist_view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/timetable/Timetable.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/timetable/Timetable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/timetable/add_timetable.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/timetable/add_timetable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/timetable/addtimetable.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/timetable/addtimetable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/timetable/delete_timetable.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/timetable/delete_timetable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/timetable/edit_timetable.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/timetable/edit_timetable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/timetable/edittimetable.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/timetable/edittimetable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/admin/pages/timetable/timetable_view.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/admin/pages/timetable/timetable_view.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/artists.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/artists.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/auth/LoginForm.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/auth/LoginForm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/auth/Password.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/auth/Password.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/auth/RegistrationForm.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/auth/RegistrationForm.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/auth/admin.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/auth/admin.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/auth/auth.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/auth/auth.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/auth/logout.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/auth/logout.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/auth/reg.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/auth/reg.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/bootstrap-4.0.0-dist/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/bootstrap-4.0.0-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/bootstrap-4.0.0-dist/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/bootstrap-4.0.0-dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/bootstrap-4.0.0-dist/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/bootstrap-4.0.0-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/bootstrap-4.0.0-dist/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/bootstrap-4.0.0-dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/bootstrap-4.0.0-dist/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/bootstrap-4.0.0-dist/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/bootstrap-4.0.0-dist/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/bootstrap-4.0.0-dist/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/bootstrap-4.0.0-dist/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/bootstrap-4.0.0-dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/bootstrap-4.0.0-dist/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/bootstrap-4.0.0-dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/bootstrap-4.0.0-dist/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/bootstrap-4.0.0-dist/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/bootstrap-4.0.0-dist/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/bootstrap-4.0.0-dist/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/comments.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/comments.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/dbsettings.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/dbsettings.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/information.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/information.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/information_dropdown.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/information_dropdown.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/js/script.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/news.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/news.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/personal_area.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/personal_area.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/public_header.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/public_header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/search.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/search.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/search_artists.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/search_artists.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/www/afisha.loc/search_date.php" beforeDir="false" afterPath="$PROJECT_DIR$/www/afisha.loc/search_date.php" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL for 5.1 - @localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="MySQL for 5.1 - @localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="storehouse@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="storehouse@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="storehouse@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="storehouse: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="storehouse@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="storehouse: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="product: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="storehouse@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="storehouse: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="product_quantity: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/www/afisha.loc" />
+  </component>
+  <component name="ProjectId" id="1VboZTsgCq7oSAw8yHZIDu7ET4D" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/www/main-module.loc" />
+      <recent name="$PROJECT_DIR$/www/main-module.loc/pages" />
+      <recent name="$PROJECT_DIR$/www/main-module.loc/img" />
+      <recent name="$PROJECT_DIR$/www/zurmo-module.loc/hosts" />
+      <recent name="$PROJECT_DIR$/www/zurmo-module.loc" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Docker.zurmo-module.loc.mysql-zurmo: Compose Deployment">
+    <configuration name="docker-compose.yml: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="sourceFilePath" value="docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <configuration name="zurmo-module.loc.mysql-zurmo: Compose Deployment" type="docker-deploy" factoryName="docker-compose.yml" temporary="true" server-name="Docker">
+      <deployment type="docker-compose.yml">
+        <settings>
+          <option name="services">
+            <list>
+              <option value="mysql-zurmo" />
+            </list>
+          </option>
+          <option name="sourceFilePath" value="www/zurmo-module.loc/docker-compose.yml" />
+        </settings>
+      </deployment>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Docker.zurmo-module.loc.mysql-zurmo: Compose Deployment" />
+        <item itemvalue="Docker.docker-compose.yml: Compose Deployment" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.40358424" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="zurmo-moduleloc" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="zurmo-moduleloc" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="memcached" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="zurmo-moduleloc" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="mysql-zurmo" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="zurmo-moduleloc" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="phpmyadmin_zurmo_module" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Docker" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="zurmo-moduleloc" type="9fbbdea:ServiceModel$ServiceNode" />
+                <item name="zurmo" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:storehouse@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:storehouse@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@253395da" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:storehouse@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@2e3fc0c1" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:storehouse@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@3e9647d9" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e2f2971-7c3b-4186-83b7-3b799127b0ee" name="Default Changelist" comment="" />
+      <created>1577531211014</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577531211014</updated>
+      <workItem from="1577531215813" duration="48136000" />
+      <workItem from="1577815363273" duration="16000" />
+      <workItem from="1577983920442" duration="53321000" />
+      <workItem from="1578220687745" duration="15624000" />
+      <workItem from="1580460900833" duration="1193000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="BRANCHES_LOG">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="265" key="#Docker" timestamp="1578090190032">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="560" y="265" key="#Docker/0.0.1920.1200@0.0.1920.1200" timestamp="1578090190032" />
+    <state x="560" y="254" key="#Environment_variables" timestamp="1577543299276">
+      <screen x="0" y="23" width="1920" height="1132" />
+    </state>
+    <state x="560" y="254" key="#Environment_variables/0.23.1920.1132@0.23.1920.1132" timestamp="1577543299276" />
+    <state x="968" y="220" width="945" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578292266192">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="968" y="220" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1578292266192" />
+    <state x="823" y="231" width="945" height="669" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1920.1132@0.23.1920.1132" timestamp="1577578724956" />
+    <state x="652" y="389" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1577547076412">
+      <screen x="0" y="23" width="1920" height="1132" />
+    </state>
+    <state x="652" y="389" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1132@0.23.1920.1132" timestamp="1577547076412" />
+    <state x="648" y="335" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1578127799060">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="648" y="335" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1578127799060" />
+    <state x="734" y="268" key="ExecutionTargetDialog" timestamp="1578147665334">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="734" y="268" key="ExecutionTargetDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1578147665334" />
+    <state width="1102" height="56" key="GridCell.Tab.0.bottom" timestamp="1578300138084">
+      <screen x="0" y="23" width="1920" height="1132" />
+    </state>
+    <state width="1603" height="428" key="GridCell.Tab.0.bottom/0.0.1920.1200@0.0.1920.1200" timestamp="1578220410061" />
+    <state width="1102" height="56" key="GridCell.Tab.0.bottom/0.23.1920.1132@0.23.1920.1132" timestamp="1578300138084" />
+    <state width="1102" height="56" key="GridCell.Tab.0.center" timestamp="1578300138083">
+      <screen x="0" y="23" width="1920" height="1132" />
+    </state>
+    <state width="1603" height="428" key="GridCell.Tab.0.center/0.0.1920.1200@0.0.1920.1200" timestamp="1578220410060" />
+    <state width="1102" height="56" key="GridCell.Tab.0.center/0.23.1920.1132@0.23.1920.1132" timestamp="1578300138083" />
+    <state width="1102" height="56" key="GridCell.Tab.0.left" timestamp="1578300138083">
+      <screen x="0" y="23" width="1920" height="1132" />
+    </state>
+    <state width="1603" height="428" key="GridCell.Tab.0.left/0.0.1920.1200@0.0.1920.1200" timestamp="1578220410059" />
+    <state width="1102" height="56" key="GridCell.Tab.0.left/0.23.1920.1132@0.23.1920.1132" timestamp="1578300138083" />
+    <state width="1102" height="56" key="GridCell.Tab.0.right" timestamp="1578300138083">
+      <screen x="0" y="23" width="1920" height="1132" />
+    </state>
+    <state width="1603" height="428" key="GridCell.Tab.0.right/0.0.1920.1200@0.0.1920.1200" timestamp="1578220410060" />
+    <state width="1102" height="56" key="GridCell.Tab.0.right/0.23.1920.1132@0.23.1920.1132" timestamp="1578300138083" />
+    <state x="781" y="519" key="NewPhpFileDialog" timestamp="1577608919889">
+      <screen x="0" y="23" width="1920" height="1132" />
+    </state>
+    <state x="781" y="526" key="NewPhpFileDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1577540651036" />
+    <state x="781" y="519" key="NewPhpFileDialog/0.23.1920.1132@0.23.1920.1132" timestamp="1577608919889" />
+    <state x="501" y="236" key="SettingsEditor" timestamp="1580461128576">
+      <screen x="43" y="27" width="1877" height="1053" />
+    </state>
+    <state x="469" y="239" key="SettingsEditor/0.0.1920.1200@0.0.1920.1200" timestamp="1578262918767" />
+    <state x="469" y="248" key="SettingsEditor/0.23.1920.1132@0.23.1920.1132" timestamp="1578294833259" />
+    <state x="501" y="236" key="SettingsEditor/43.27.1877.1053/1920.0.1366.768@43.27.1877.1053" timestamp="1580461128576" />
+    <state x="850" y="483" width="340" height="239" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1578222392356">
+      <screen x="0" y="23" width="1920" height="1132" />
+    </state>
+    <state x="850" y="483" width="340" height="239" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.23.1920.1132@0.23.1920.1132" timestamp="1578222392356" />
+    <state x="837" y="330" width="271" height="518" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1577575781369">
+      <screen x="0" y="23" width="1920" height="1132" />
+    </state>
+    <state x="837" y="330" width="271" height="518" key="com.intellij.database.view.ui.DbObjectDialog/0.23.1920.1132@0.23.1920.1132" timestamp="1577575781369" />
+    <state x="624" y="431" key="com.intellij.ide.util.TipDialog" timestamp="1578221022549">
+      <screen x="0" y="23" width="1920" height="1132" />
+    </state>
+    <state x="624" y="432" key="com.intellij.ide.util.TipDialog/0.0.1920.1200@0.0.1920.1200" timestamp="1577531263397" />
+    <state x="624" y="431" key="com.intellij.ide.util.TipDialog/0.23.1920.1132@0.23.1920.1132" timestamp="1578221022549" />
+    <state x="625" y="269" width="670" height="717" key="search.everywhere.popup" timestamp="1578183754742">
+      <screen x="0" y="0" width="1920" height="1200" />
+    </state>
+    <state x="625" y="269" width="670" height="717" key="search.everywhere.popup/0.0.1920.1200@0.0.1920.1200" timestamp="1578183754742" />
+    <state x="625" y="277" width="670" height="676" key="search.everywhere.popup/0.23.1920.1132@0.23.1920.1132" timestamp="1577559522243" />
+  </component>
+</project>

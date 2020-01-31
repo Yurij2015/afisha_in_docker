@@ -1,0 +1,171 @@
+body {
+    background: #062c33;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+
+.afisha {
+    min-height: 200px;
+    background: whitesmoke;
+}
+
+li {
+    border-right: aliceblue 1px solid;
+}
+
+li:last-child {
+    border-right: 0;
+}
+
+.authcolor {
+    color: #bd2130 !important;
+}
+
+a.authcolor:hover, a.authcolor:focus {
+    color: #dc3545 !important;
+}
+
+.starthead {
+    color: #bd2130;
+    width: 100%;
+    height: 100px;
+    text-align: center;
+    margin: 10px;
+}
+
+.starthead-center {
+    display: inline-block;
+    line-height: 100px;
+}
+
+.contentafisha {
+    margin: 10px;
+    min-height: 200px;
+    width: 100%;
+    text-align: center;
+
+}
+
+.calendar {
+    width: 30%;
+    background: #bd2130;
+    height: 50px;
+    color: white;
+    font-weight: bold;
+}
+
+.search {
+    width: 60%;
+    background: #bd2130;
+    height: 50px;
+}
+
+.emptyplace {
+    width: 10%;
+    height: 50px;
+}
+
+.contentafisha-center {
+    display: inline-block;
+    line-height: 50px;
+}
+
+.contentafisha > .search {
+    text-align: justify;
+    padding: 10px 0 0 10px;
+}
+
+span {
+    margin-left: 10px;
+}
+
+.search input {
+    width: 70%;
+}
+
+.content {
+    margin: 20px auto;
+    /*height: 120px;*/
+    width: 100%;
+}
+
+.content-center {
+    line-height: 120px;
+}
+
+hr {
+    color: #6e9497;
+    margin: 0 auto;
+    width: 100%;
+    height: 3px;
+    border: none;
+    background-color: #6e9497;
+}
+
+footer{
+    background: whitesmoke;
+    text-align: center;
+    height: 50px;
+    line-height: 50px;
+    margin-top: 20px;
+}
+
+.info{
+    background: #bd2130;
+    padding: 10px;
+}
+.content a{
+    text-decoration: none;
+    color: white;
+    text-transform: uppercase;
+
+}
+
+.hoverDiv {
+    background: #fff;
+    text-align: center;
+    line-height: 40px;
+
+}
+
+.nounderLine {
+    text-decoration: none !important
+}
+
+.hoverDiv:hover {
+    background: #f5f5f5;
+}
+
+.hoverDiv a{
+    color: black;
+}
+
+.busy {
+    background: red;
+}
+
+a {
+    color: black;
+}
+
+.busy a {
+    color: white;
+}
+
+.busy:hover{
+    background: #0c5460;
+}
+
+.busy a:hover{
+    color: white;
+}
+
+
+input[type="date"]:before {
+    content: attr(placeholder) !important;
+    color: #aaa;
+    margin-right: 0.5em;
+}
+input[type="date"]:focus:before,
+input[type="date"]:valid:before {
+    content: "";
+}
